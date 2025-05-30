@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly. or not
+            Ahora Probamos el Archivo Con lint Taged
           </li>
         </ol>
 
